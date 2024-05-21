@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    border: 1px black solid;
+}
+.topbar{
+    height: 15px;
+    
+    color: white;
+    font-size: 10px;
+    background-color: #08adc6;
+}
+.marqee{
+    background-color: #08adc6;
+}
+.menu{
+    height: 50px;
+    width:0px;
+    background-color: #08adc6;
+    width: 100%;
+    padding-right: 30px;
+
+}
+.menu ul li{
+   list-style-type:none;
+   padding-left: 30px;
+   display: inline;
+   font-size: 8pt;
+}
+.logo{
+    float: left;
+}
+.rol{
+    float: left;
+    height: 500px;
+    background-size: 100%;
+    margin: 15px,auto;
+
+} 
+a.hover{
+    color: black;
+    background-color: rgb(110, 151, 249);
+    border-radius: 10px;
+    float: left;
+}
+.content{
+    margin-top: 0px auto;
+}
+.col{
+    width: 33%;
+    border: 1px;
+    height: 200px;
+    background-color: rgb(247, 190, 115);
+    float: left;
+    margin: 1px;
+}
+.gallery{
+    float: left;
+        }
+.img{
+    width:320px;
+    height: 200px;
+    
+}
+.footer ul li {
+    padding: 2px;
+    list-style-type: none;
+    text-align: 400px;
+    background-color:white ;
+}
+
+h2{
+    width: 100%;
+    background-color: rgb(49, 170, 240);
+    padding: 05px;
+    border: 20px, 20px,20px,20px;
+    height: 32px;
+    margin-right: 20px;
+}
+.last{
+   width: 100%;
+   height: 50PX;
+   background-color: rgb(156, 63, 250);
+
+}
+.footer{
+    width: 23%;
+     height: 600px;
+    background-color: rgb(79, 55, 145);
+    padding: 20px;
+    justify-content: left;  
+    
+}
+.footerinfo{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(215, 230, 87);
+}
